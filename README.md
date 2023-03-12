@@ -2,7 +2,7 @@
 Aplikasi Gudang dan Kasir Desktop Menggunakan Java (Netbeans)
 > Aplikasi ini adalah aplikasi pertama saya saat belajar java programming
 
-## Feature
+# Fiturnya Yahh Maap Kalau Cuman Segini
 - Kelola Admin dan Petugas
 - Kelola Data Barang
 - Pembelian melalui Kasir
